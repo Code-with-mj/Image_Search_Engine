@@ -63,7 +63,7 @@
   border: none;
   font-size: 1.1rem;
   padding-left: 55px;
-  background: #fff;
+  background: aquamarine;
   border-radius: 5px;
 }
 .search-box input::placeholder {
